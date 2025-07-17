@@ -1,4 +1,4 @@
-# Palindrome & User List App
+# Palindrome & User List App by Muhammad Yalqa
 
 Aplikasi ini dibuat untuk memenuhi task *Magang Berdampak 2025 - Mobile Developer Intern - Suitmedia*.
 
@@ -58,7 +58,9 @@ flutter run
 
 ## Screenshots
 
-*Tambahkan screenshot di bawah sesuai kebutuhan*
+![First Screen](assets/screenshots/first_screen.png)
+![Second Screen](assets/screenshots/second_screen.png)
+![Third Screen](assets/screenshots/third_screen.png)
 
 ---
 
